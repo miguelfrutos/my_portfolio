@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hola!",
-    "description": "Bienvenidos a mi portfolio 👋 . Mi nombre es Miguel Frutos, el Data Scientist más curioso que está preparado para resolver los problemas intelectuales más estimulantes y construir impacto positivo en la sociedad. Si os gusta el portfolio 🚀, poneos en contacto conmigo para abrir cualquier conversación o explorar nuevas oportunidades y proyectos. Gracias por vuestro tiempo. Un abrazo. ⭐ ",
+    "description": "Bienvenidos a mi portfolio 👋 . Mi nombre es Miguel Frutos, apasionado del tenis y Data Scientist. Me fascina resolver problemas intelectuales relacionados con Data Science y construir impacto positivo en la sociedad. Al tener una orientación a cliente desde un enfoque data-driven, he sido capaz de convertir ideas complejas en soluciones de negocio creativas en escenarios únicos.\n \n Destaco en la capacidad de traducir y comunicar de manera efectiva, esencial para enmarcar el problema, impulsar la acción para abordarlo y colaborar con diferentes stakeholders, tanto técnicamente como dentro de un contexto de negocio. \n \n - 🌱 Actualmente estoy aprendiendo todo lo relacionado con la IA, al menos intentandolo con constancia 🤣.\n - 👯 Busco colaborar en proyectos de Data Science con Impacto Social y que sean emocionantes.\n - 🌚 100% fan del buen sentido del humor. \n - 🥅 Objetivos 2022: Ser un Creador de Contenido amateur, comenzar un Side Hustle y copiar la fuerza mental de Rafa y el estilo suizo de Federer. \n - ⚡ Dato curioso: He intentado hacer break dance 💃... No estoy hecho para ello \n\n Si os gusta el portfolio 🚀, poneos en contacto conmigo para abrir cualquier conversación o explorar nuevas oportunidades y proyectos. \nGracias por vuestro tiempo. \nUn abrazo. ⭐ ",
     "section_name": {
       "about": "Sobre mi",
       "projects": "Proyectos",
@@ -11,7 +11,7 @@
   },
   "projects": [
     {
-      "title": "Mi Marioneta Compone",
+      "title": "Mi muppet es un compositor",
       "startDate": "2022",
       "description": "Nuestro profesor de Procesamiento del Lenguaje Natural, Ángel Castellanos González, nos ha propuesto un reto. Crear una aplicación que debe responder a un escenario de uso real. Algunas personas de nuestro grupo tocamos instrumentos e incluso hemos intentado escribir canciones, con resultados desafortunados, sobre todo para nuestro público (familia y amigos) que esperaba una nueva Lady Gaga y Freddie Mercury en la sala y después de unas cuantas canciones darse cuenta de que tal vez deberíamos pensar en hacer otra cosa. ¿Debemos abandonar nuestros sueños?",
       "images": [

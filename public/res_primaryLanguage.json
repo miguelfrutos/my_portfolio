@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello there!",
-      "description": "Welcome to my Portfolio 👋 . I'm Miguel Frutos, curious Data Scientist ready to solve the most intellectually stimulating and impactful problems. If you like this portfolio 🚀, feel free to reach me out to have a conversation or to explore new opportunities. Thank you for your time! Enjoy :) ⭐ ",
+      "description": "Welcome to my Portfolio 👋 . I'm Miguel Frutos, Tennis Passionate and curious Data Scientist ready to solve the most intellectually stimulating and impactful problems. By being data-driven to the max, I´ve been able to turn complex ideas into creative business solutions in unique scenarios.\n \n Besides that, what stands out in my skillset is the ability to translate and communicate effectively, essential to unchained a strong momentum for action and to collaborate with different business units to frame and tackle a problem, both technically and within a business context.\n \n - 🌱 I’m currently learning everything about AI, at least trying hard 🤣.\n - 👯 I’m looking to collaborate on COOL Data Science projects with Social Impact and run novel Data Science Experiments.\n - 🌚 100% fan of having a good sense of humor. \n - 🥅 2022 Goals: Become an amateur Content Creator, Start a Side Hustle & Copy Rafa´s strenght and Federer style. \n - ⚡ Fun fact: I´ve once tried break dance 💃... I'm not cut out for it. \n \n If you like this portfolio 🚀, feel free to reach me out to have a conversation or to explore new opportunities. \n Thank you for your time! \n Enjoy :) ⭐ ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -16,7 +16,7 @@
         "description": "Our Natural Language Processing professor, Angel Castellanos Gonzalez, has proposed us a challenge. Create an application that should address an actual use case scenario. Some people in our group play instruments and we have even tried to write songs, with unfortunate results, specially to our audience (family and friends) that were expecting a new Lady Gaga and Freddie Mercury in the room and after few songs realizing that maybe we should think of doing something else. Should we abandon our dreams?.",
         "images": [
           "images/portfolio/Songwriter/p1.jpg",
-          "images/portfolio/Songwriter/p2.jpg"
+          "images/portfolio/Songwriter/p2.png"
         ],
         "url": "https://github.com/miguelfrutos/Songwriter",
         "technologies": [
