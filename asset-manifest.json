@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/miguelfrutos/portfolio/static/css/main.db6f0745.chunk.css",
-    "main.js": "/miguelfrutos/portfolio/static/js/main.cb843f05.chunk.js",
-    "main.js.map": "/miguelfrutos/portfolio/static/js/main.cb843f05.chunk.js.map",
-    "runtime-main.js": "/miguelfrutos/portfolio/static/js/runtime-main.5b39b314.js",
-    "runtime-main.js.map": "/miguelfrutos/portfolio/static/js/runtime-main.5b39b314.js.map",
-    "static/css/2.d64471e2.chunk.css": "/miguelfrutos/portfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.71d934f0.chunk.js": "/miguelfrutos/portfolio/static/js/2.71d934f0.chunk.js",
-    "static/js/2.71d934f0.chunk.js.map": "/miguelfrutos/portfolio/static/js/2.71d934f0.chunk.js.map",
-    "index.html": "/miguelfrutos/portfolio/index.html",
-    "precache-manifest.8f46808f1246d3fc8d25a2219a757f8b.js": "/miguelfrutos/portfolio/precache-manifest.8f46808f1246d3fc8d25a2219a757f8b.js",
-    "service-worker.js": "/miguelfrutos/portfolio/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/miguelfrutos/portfolio/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.db6f0745.chunk.css.map": "/miguelfrutos/portfolio/static/css/main.db6f0745.chunk.css.map",
-    "static/js/2.71d934f0.chunk.js.LICENSE.txt": "/miguelfrutos/portfolio/static/js/2.71d934f0.chunk.js.LICENSE.txt"
+    "main.css": "/miguelfrutos/portfolio2/static/css/main.db6f0745.chunk.css",
+    "main.js": "/miguelfrutos/portfolio2/static/js/main.d28f575b.chunk.js",
+    "main.js.map": "/miguelfrutos/portfolio2/static/js/main.d28f575b.chunk.js.map",
+    "runtime-main.js": "/miguelfrutos/portfolio2/static/js/runtime-main.f40a3b62.js",
+    "runtime-main.js.map": "/miguelfrutos/portfolio2/static/js/runtime-main.f40a3b62.js.map",
+    "static/css/2.d64471e2.chunk.css": "/miguelfrutos/portfolio2/static/css/2.d64471e2.chunk.css",
+    "static/js/2.71d934f0.chunk.js": "/miguelfrutos/portfolio2/static/js/2.71d934f0.chunk.js",
+    "static/js/2.71d934f0.chunk.js.map": "/miguelfrutos/portfolio2/static/js/2.71d934f0.chunk.js.map",
+    "index.html": "/miguelfrutos/portfolio2/index.html",
+    "precache-manifest.63a9863e6c521e6e618ac4652ad421a7.js": "/miguelfrutos/portfolio2/precache-manifest.63a9863e6c521e6e618ac4652ad421a7.js",
+    "service-worker.js": "/miguelfrutos/portfolio2/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/miguelfrutos/portfolio2/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/miguelfrutos/portfolio2/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.71d934f0.chunk.js.LICENSE.txt": "/miguelfrutos/portfolio2/static/js/2.71d934f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b39b314.js",
+    "static/js/runtime-main.f40a3b62.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.71d934f0.chunk.js",
     "static/css/main.db6f0745.chunk.css",
-    "static/js/main.cb843f05.chunk.js"
+    "static/js/main.d28f575b.chunk.js"
   ]
 }
