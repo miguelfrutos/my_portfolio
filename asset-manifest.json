@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/miguelfrutos/ultimate_portfolio/static/css/main.db6f0745.chunk.css",
-    "main.js": "/miguelfrutos/ultimate_portfolio/static/js/main.235cad19.chunk.js",
-    "main.js.map": "/miguelfrutos/ultimate_portfolio/static/js/main.235cad19.chunk.js.map",
-    "runtime-main.js": "/miguelfrutos/ultimate_portfolio/static/js/runtime-main.059a7ffe.js",
-    "runtime-main.js.map": "/miguelfrutos/ultimate_portfolio/static/js/runtime-main.059a7ffe.js.map",
-    "static/css/2.d64471e2.chunk.css": "/miguelfrutos/ultimate_portfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.71d934f0.chunk.js": "/miguelfrutos/ultimate_portfolio/static/js/2.71d934f0.chunk.js",
-    "static/js/2.71d934f0.chunk.js.map": "/miguelfrutos/ultimate_portfolio/static/js/2.71d934f0.chunk.js.map",
-    "index.html": "/miguelfrutos/ultimate_portfolio/index.html",
-    "precache-manifest.a8a7586203afec130679561d38f5121b.js": "/miguelfrutos/ultimate_portfolio/precache-manifest.a8a7586203afec130679561d38f5121b.js",
-    "service-worker.js": "/miguelfrutos/ultimate_portfolio/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/miguelfrutos/ultimate_portfolio/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.db6f0745.chunk.css.map": "/miguelfrutos/ultimate_portfolio/static/css/main.db6f0745.chunk.css.map",
-    "static/js/2.71d934f0.chunk.js.LICENSE.txt": "/miguelfrutos/ultimate_portfolio/static/js/2.71d934f0.chunk.js.LICENSE.txt"
+    "main.css": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/css/main.db6f0745.chunk.css",
+    "main.js": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/js/main.c2d8adaf.chunk.js",
+    "main.js.map": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/js/main.c2d8adaf.chunk.js.map",
+    "runtime-main.js": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/js/runtime-main.ab70771a.js",
+    "runtime-main.js.map": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/js/runtime-main.ab70771a.js.map",
+    "static/css/2.d64471e2.chunk.css": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/css/2.d64471e2.chunk.css",
+    "static/js/2.71d934f0.chunk.js": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/js/2.71d934f0.chunk.js",
+    "static/js/2.71d934f0.chunk.js.map": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/js/2.71d934f0.chunk.js.map",
+    "index.html": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/index.html",
+    "precache-manifest.25fedb5746a3f3eda7acd5c346abc973.js": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/precache-manifest.25fedb5746a3f3eda7acd5c346abc973.js",
+    "service-worker.js": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.71d934f0.chunk.js.LICENSE.txt": "/miguelfrutos/miguelfrutos.github.io-ultimate_portfolio2/static/js/2.71d934f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.059a7ffe.js",
+    "static/js/runtime-main.ab70771a.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.71d934f0.chunk.js",
     "static/css/main.db6f0745.chunk.css",
-    "static/js/main.235cad19.chunk.js"
+    "static/js/main.c2d8adaf.chunk.js"
   ]
 }
